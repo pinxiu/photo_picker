@@ -1,0 +1,5 @@
+.venv
+input_photos/sample/*
+*.log
+**/.DS_Store
+output_photos/*
